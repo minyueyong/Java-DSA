@@ -59,8 +59,5 @@ public class ArrayList {
 
         System.out.println(intList.toString());
 
-
-
-
     }
 }
